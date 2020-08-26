@@ -2,7 +2,8 @@
   "name": "tableau-extensions-tutorial-part-one",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/thoang1000/tableau-extensions-tutorial-part-one",
+  "repository": "https://github.com/jasbir84/tableau-extensions-tutorial-part-one",
+  "author": "jasbiraviraj84",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^4.1.3",
