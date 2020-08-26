@@ -10,7 +10,7 @@ To install the code and get up and running:
 Once installed, clone this repository:
 
 ```sh
-git clone https://github.com/tableaumagic/tableau-extensions-tutorial-part-one
+git clone https://github.com/jasbir84/tableau-extensions-tutorial-part-one
 ```
 
 Use npm to install a http-server
