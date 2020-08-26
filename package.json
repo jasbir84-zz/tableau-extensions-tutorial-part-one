@@ -1,0 +1,12 @@
+{
+  "name": "tableau-extensions-tutorial-part-one",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jasbir84/tableau-extensions-tutorial-part-one",
+  "author": "jasbiraviraj84 <jasbir_singh@mckinsey.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1"
+  }
+}
